@@ -1,10 +1,11 @@
 .cards {
     display: flex;
     justify-content: space-between;
+    padding: 30px;
 }
 
 .cards h2 {
-  color:#718da5
+  color: #718da5;
 }
 
 .list-inline {
