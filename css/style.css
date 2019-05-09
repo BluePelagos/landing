@@ -52,7 +52,7 @@ a {
 
 .main_container {
     text-align:center;
-    width: 750px;
+    max-width: 750px;
     margin: auto;
 }
 
